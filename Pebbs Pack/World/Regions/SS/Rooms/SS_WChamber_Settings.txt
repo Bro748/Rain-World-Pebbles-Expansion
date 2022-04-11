@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveLength: 0.5217391
+WaveAmplitude: 0
+SecondWaveLength: 0.1847826
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 225
+EffectColorA: 11
+EffectColorB: 18
+Effects: ZeroGSpecks-0.1521739-20-20, ZeroG-1-29-69, ZeroGWater-1-208-137, 
+PlacedObjects: LightSource><510.379><1298.597><0.7391304~Environment~-183~-33~50~86.60254~1~0, LightSource><89.59143><1152.878><0.4565217~Environment~180~196~50~86.60254~1~0, SuperStructureFuses><528.6495><1082.133><50~56, DeepProcessing><689.3613><1203.666><0~100~140~109~152~-62~-162~39~0.3804348~1~0, LightFixture><364.0884><1021.618><RedLight~-232.6795~-180~5, SSLightRod><507.7><1130.254><-342.6795~-108~0.5108696~315~270~0.3586957, SSLightRod><518.3361><1140.819><-80.6795~-228~0.5326087~315~294.7826~0.2717391, LightFixture><762.2446><875.05><RedLight~48.3205~-19~78, LightSource><819.0736><379.8443><0.6086956~Environment~-624~-173~-277~47.60248~0~0, LightSource><112.0364><274.9467><1~Environment~249~344~50~86.60254~1~0, LightSource><369.1587><74.8717><0.2717391~EffectColor2~684~-49~55~30.60254~0~0, LightSource><769.9343><192.4224><0.4891304~Environment~-355~2~-184~-132.3975~0~0, LightSource><409.83><362.1833><0.5~EffectColor1~-553~-505~104~79.60254~0~0, LightSource><212.1906><365.0606><0.3478261~EffectColor1~84~-455~50~86.60254~1~0, 
+FadePalette: 10, 0.4021739, 0.5978261

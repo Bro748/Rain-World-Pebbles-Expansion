@@ -1,0 +1,12 @@
+DangerType: None
+RumbleIntensity: 1
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.2065217
+RandomItemSpearChance: 0.1347825
+Palette: 23
+EffectColorA: 10
+EffectColorB: 13
+Effects: ZeroGSpecks-0.326087-20-20, ZeroG-1-19-99, ZeroGWater-1-283-16, Bloom-0.1521739-282-89, 
+PlacedObjects: CGDrySpot><195.059><-31.80945><564^890, CGDrySpot><-203.45><-33.99417><262^851, CGDrySpot><909.74><-35.69974><255^854, ZapCoil><325.4272><362.8427><310~50, LightFixture><477.9825><436.0508><ZapCoilLight~42.3205~25~24, SuperStructureFuses><371.9995><590.55><226~182, PWLightrod><195.4852><409.1995><-291.6795~-112~0.2934783~0~187.3913~0.2173913~0.8021738~1~0.4086961, PWLightrod><759.3273><415.6492><43.3205~-357~0.326087~0~179.1304~0.1956522~0.7913042~1~0.3978265, LightSource><447.2729><104.5513><0.25~Environment~7~247~50~86.60254~0~0, DeepProcessing><188.161><423.3813><-133~595~585~600~579~-10~-299~44~0.7826087~0.8695652~0.3478261, LightSource><828.868><46.09973><0.4021739~EffectColor1~-375~15~-392~53.60254~0~0, LightSource><837.1833><583.0798><0.6304348~EffectColor1~-381~-50~-280~-54.39746~0~0, LightSource><127.1263><48.09491><0.4021739~EffectColor1~355~-1~50~86.60254~0~0, LightSource><121.8765><576.4073><0.4130435~EffectColor1~325~-22~24~-72.39746~0~0, ZapCoil><147.6868><1948.071><266~45, LightFixture><268.3257><1972.401><ZapCoilLight~-149.6795~65~27, ZapCoil><48.69995><1149.005><45~221, LightFixture><51.94202><1259.441><ZapCoilLight~-202.6795~-211~39, ZapCoil><609.3553><1147.08><43~222, LightFixture><617.671><1249.316><ZapCoilLight~-116.6795~-180~15, SuperStructureFuses><449.0536><1068.462><26~26, SuperStructureFuses><371.6477><1309.885><200~83, SuperStructureFuses><445.3584><1486.359><31~27, SuperStructureFuses><409.1315><1667.401><149~50, SuperStructureFuses><800.5239><1451.199><108~185, SuperStructureFuses><48.94995><1490.255><188~24, LightSource><845.3096><1390.439><0.6413044~Environment~-124~-122~-6~-113.3975~0~0, LightSource><794.1957><2065.459><0.423913~Environment~-91~-205~-406~-257.3975~0~0, LightSource><644.2501><1684.051><0.5869565~Environment~26~118~-131~-94.39746~0~0, LightFixture><899.8469><896.6749><ZapCoilLight~17.32051~-10~0, LightSource><449.5822><12.56763><0.25~Environment~-593~354~17~-22.39746~0~0, DeepProcessing><119.1769><1141.907><-50~575~565~592~518~-51~-244~127~0.7934783~1~0.1304348, SuperStructureFuses><127.9594><1050.946><286~62, LightSource><482.0927><738.3765><1~EffectColor2~-83~-317~-26~-68.39746~0~0, WallMycelia><620.2664><984.5509><-62~94, WallMycelia><417.0588><1725.559><-30~71, 
+FadePalette: 225, 0, 0.1847826, 0.2826087

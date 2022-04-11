@@ -1,0 +1,10 @@
+DangerType: None
+CeilingDrips: 0
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.173913
+RandomItemSpearChance: 0.1999999
+Palette: 23
+Effects: ZeroGSpecks-0.4347826-20-20, ZeroG-1-29-75, 
+PlacedObjects: LightSource><1506.747><627.8><0.6413044~Environment~-73~-261~30~-119.3975~0~0, ZapCoil><1428.051><89.98065><46~224, ZapCoil><1531.558><88.19135><42~225, LightFixture><1534.348><212.8257><ZapCoilLight~17.32051~-10~30, LightFixture><1443.168><192.6825><ZapCoilLight~9.320496~-74~30, LightFixture><1060.238><443.0504><ZapCoilLight~17.32051~-10~30, LightFixture><960.83><451.8947><ZapCoilLight~17.32051~-10~14, LightFixture><348.4277><228.3135><ZapCoilLight~-345.6795~-80~26, LightFixture><2066.878><467.8417><ZapCoilLight~61.3205~-110~29, LightFixture><1959.948><456.2789><ZapCoilLight~71.32051~73.00003~33, SuperStructureFuses><2301.502><150.55><296~105, SuperStructureFuses><2301.413><590.8661><294~65, SuperStructureFuses><2161.316><452.171><274~61, SuperStructureFuses><2169.247><212.05><266~81, DeepProcessing><1066.512><21.69965><4~662~1856~699~1985~-20~0~0~0.75~1~0.5, DeepProcessing><375.4254><44.18561><-27~362~697~329~698~3~115~-58~0.423913~0.6847826~0, LightSource><188.3398><330.1198><0.7065217~Environment~-197~-303~50~86.60254~0~0, SuperStructureFuses><702.3055><291.4532><132~343, ZapCoil><1943.437><364.1776><53~228, ZapCoil><2048.553><363.4626><49~233, ZapCoil><347.4387><109.5596><45~218, ZapCoil><927.8193><365.5624><49~229, ZapCoil><1035.196><372.3075><41~225, LightSource><649.4489><407.5215><0.5217391~Environment~-141~17~-15~-168.3975~0~0, SuperStructureFuses><1429.008><590.5502><149~88, LightSource><2460.88><211.3484><0.5~Environment~186~285~50~86.60254~0~0, LightSource><2783.14><432.1425><0.7391304~Environment~-236~-64~-244~52.60254~0~0, SuperStructureFuses><2410.702><372.5558><257~100, LightSource><2455.442><617.9453><0.5543478~Environment~-40~-284~71~-66.39746~0~0, 
+FadePalette: 17, 0.9021739, 0.6521739, 0.3478261

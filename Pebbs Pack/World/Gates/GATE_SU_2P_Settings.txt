@@ -1,0 +1,6 @@
+Template: SU_SettingsTemplate_Inside
+RumbleIntensity: 1
+Palette: 0
+EffectColorB: 0
+PlacedObjects: CGDrySpot><21.57947><91.35452><277^365, CGDrySpot><299.6992><93.48276><180^361, 
+FadePalette: 8, 0.06521739

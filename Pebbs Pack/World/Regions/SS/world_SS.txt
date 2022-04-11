@@ -1,0 +1,27 @@
+ROOMS
+
+\\Vanilla
+SS_A10 : SS_I02, SS_WJets, SS_B05, SS_A09
+SS_A09 : SS_A10, SS_B01, DISCONNECTED, SS_WChamber
+SS_C03 : SS_WZapZag, SS_C07, SS_B02, SS_A16
+SS_A03 : SS_A16, SS_WZapNon, SS_A15
+
+\\Transform Arrays
+SS_WZapE : SS_WZapZag, SS_WZapNon, SS_WOnescreen
+SS_WZapZag : SS_C03, SS_WZapE
+SS_WZapNon : SS_WZapE, SS_A03
+
+\\Water
+SS_WChamber : SS_WHall, SS_A09
+SS_WHall : SS_WChamber, SS_WOnescreen
+SS_WJets : SS_WOnescreen, SS_A10
+SS_WOnescreen : SS_WJets, SS_WZapE, SS_WHall
+
+END ROOMS
+
+CREATURES
+
+END CREATURES
+
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

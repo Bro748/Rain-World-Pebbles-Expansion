@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0.09782609
+RandomItemDensity: 0.1521739
+WaterReflectionAlpha: 1
+Palette: 225
+EffectColorA: 10
+Effects: ZeroGSpecks-0.3152174-20-20, ZeroG-1-20-83, ZeroGWater-1-30-30, 
+PlacedObjects: CGDrySpot><-200.5717><-56.09052><568^770, CGDrySpot><557.162><-49.86725><606^768, LightFixture><760.1706><626.8164><RedLight~17.32051~-10~90, LightFixture><131.3973><619.8647><RedLight~17.32051~-10~26, LightFixture><823.4351><68.92401><RedLight~17.32051~-10~56, PWLightrod><358.05><156.248><-308.6795~63~0.3586957~0~393.913~0.3478261~0.7913042~1~0.3978265, PWLightrod><562.6245><164.6557><17.32051~-10~0.3369565~0~418.6956~0.3369565~0.8021738~1~0.4086961, LightSource><127.075><39.84682><1~Environment~1~149~50~86.60254~0~0, LightSource><458.6903><29.80914><0.2934783~EffectColor1~8~442~50~86.60254~0~0, LightSource><460.0976><645.0754><0.2934783~EffectColor1~0~-459~-32~-134.3975~0~0, 
+FadePalette: 10, 0.4021739

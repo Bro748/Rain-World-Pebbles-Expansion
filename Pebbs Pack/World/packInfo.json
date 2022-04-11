@@ -1,0 +1,13 @@
+{
+   "regionPackName": "Two and-a-half Pipes", 
+   "description": "Testing Acronyms.", 
+   "author": "Bro", 
+   "activated": true, 
+   "loadOrder": 100, 
+   "regions": "2P", 
+   "thumbURL": "", 
+   "version": "1.0", 
+   "requirements": "", 
+   "useRegionName": false, 
+   "checksum": "8a438319f716edd22596f6c2557a3958" 
+}
